@@ -6,7 +6,9 @@
   <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
 </p>
 
-<hr />
+<p align="center">
+  <hr style="border: 2px solid #000; width: 80%;"/>
+</p>
 
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
