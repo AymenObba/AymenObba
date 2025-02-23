@@ -1,9 +1,9 @@
 <p align="center">
-  # Hi 👋, I'm Aymen Obba
+  <h1>Hi 👋, I'm Aymen Obba</h1>
 </p>
 
 <p align="center">
-  A passionate fullstack developer from Tunisia
+  <h2>A passionate fullstack developer from Tunisia</h2>
 </p>
 
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
