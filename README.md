@@ -1,9 +1,9 @@
 <p align="center">
-  <span style="font-size: 1.5em;">Hi 👋, I'm Aymen Obba</span>
+  <strong style="font-size: 2em;">Hi 👋, I'm Aymen Obba</strong>
 </p>
 
 <p align="center">
-  <span style="font-size: 1.2em;">A passionate fullstack developer from Tunisia</span>
+  <strong style="font-size: 1.5em;">A passionate fullstack developer from Tunisia</strong>
 </p>
 
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
