@@ -1,7 +1,7 @@
 <p align="center">
   <strong style="font-size: 2.5em;">Hi 👋, I'm Aymen Obba</strong>
 </p>
-<!--
+________________________________________________________________________________________________________
 <p align="center">
   <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
 </p>
@@ -10,5 +10,5 @@
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
 - 📫 How to reach me: **aymenobba@gmail.com**
 - ⚡ Fun fact: For me, development isn't just a job—it's a passion that makes it feel more like fun than work!
--->
+
 
