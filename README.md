@@ -1,6 +1,4 @@
-<p align="center">
 ## Hi 👋, I'm Aymen Obba 
-</p>
 <p align="center">
   <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
 </p>
