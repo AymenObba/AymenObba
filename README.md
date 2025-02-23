@@ -6,8 +6,6 @@
   <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
 </p>
 
-
-
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
 - 📫 How to reach me: **aymenobba@gmail.com**
