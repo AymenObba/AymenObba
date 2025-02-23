@@ -10,4 +10,5 @@
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
 - 📫 How to reach me: **aymenobba@gmail.com**
 - ⚡ Fun fact: For me, development isn't just a job—it's a passion that makes it feel more like fun than work!
+-->
 
