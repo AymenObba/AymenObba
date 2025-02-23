@@ -1,5 +1,5 @@
   <p align="center">
-<strong>##Hi 👋, I'm Aymen Obba</strong>
+<strong>Hi 👋, I'm Aymen Obba</strong>
     </p>
 <p align="center">
   <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
