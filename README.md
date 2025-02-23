@@ -1,10 +1,12 @@
 <p align="center">
-  <strong style="font-size: 2em;">Hi 👋, I'm Aymen Obba</strong>
+  <strong style="font-size: 2.5em;">Hi 👋, I'm Aymen Obba</strong>
 </p>
 
 <p align="center">
-  <strong style="font-size: 1.5em;">A passionate fullstack developer from Tunisia</strong>
+  <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
 </p>
+
+<hr />
 
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
