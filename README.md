@@ -1,8 +1,10 @@
-# Hi there 👋
+<p align="center">
+  # Hi 👋, I'm Aymen Obba
+</p>
 
-**AymenObba/AymenObba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+  A passionate fullstack developer from Tunisia
+</p>
 
 - 🌱 I’m currently learning **NextJS** and refining my React skills.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
