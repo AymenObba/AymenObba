@@ -1,14 +1,18 @@
-<p align="center">
-  <strong style="font-size: 2.5em;">Hi 👋, I'm Aymen Obba</strong>
-</p>
-________________________________________________________________________________________________________
-<p align="center">
-  <strong style="font-size: 1.8em;">A passionate fullstack developer from Tunisia</strong>
-</p>
+Hi 👋, I'm Majd Lefi
+A passionate fullstack developer from Tunisia
+## Hi there 👋
 
-- 🌱 I’m currently learning **NextJS** and refining my React skills.
-- 💬 Ask me about **JavaScript**, **TypeScript**, **Node.js**, and **React**.
-- 📫 How to reach me: **aymenobba@gmail.com**
-- ⚡ Fun fact: For me, development isn't just a job—it's a passion that makes it feel more like fun than work!
+<!--
+**AymenObba/AymenObba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
